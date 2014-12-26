@@ -1,11 +1,28 @@
 .header {
   font-family: 'Shift', sans-serif;
+  font-size: 50px;
+  background-color: #f8f8df;
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  padding: 20px 40px 40px 20px;
 }
 
+.header h1 {
+  color: #8d6a95;
+}
+
+.header h4 {
+  color: #f4bebe;
+}
+
+
 .links a{
-  color: blue;
+  color: #8d6a95;
 }
 
 .links li{
   font-family: 'Shift', sans-serif;
+  display: inline;
+  font-size: 30px;
 }
