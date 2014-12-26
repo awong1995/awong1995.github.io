@@ -23,6 +23,8 @@
 
 .links li{
   font-family: 'Shift', sans-serif;
-  display: inline;
   font-size: 30px;
+  display: inline;
+  margin: 50px;
+  padding-left: 150px;
 }
