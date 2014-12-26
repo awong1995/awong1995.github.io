@@ -1,3 +1,11 @@
+.header {
+  font-family: 'Shift', sans-serif;
+}
+
 .links a{
   color: blue;
+}
+
+.links li{
+  font-family: 'Shift', sans-serif;
 }
