@@ -1,0 +1,17 @@
+.links {
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f8f8df;
+  background-size: cover;
+}
+
+.links li{
+  font-family: 'Shift', sans-serif;
+  font-size: 20px;
+  display: inline;
+}
+
+.links a{
+  color: #a86b80;
+}
