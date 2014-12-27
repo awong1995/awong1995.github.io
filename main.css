@@ -1,4 +1,4 @@
-.header {
+.jumbotron{
   font-family: 'Shift', sans-serif;
   font-size: 50px;
   background-color: #f8f8df;
@@ -8,11 +8,11 @@
   padding: 20px 40px 40px 20px;
 }
 
-.header h1 {
+.jumbotron h1 {
   color: #8d6a95;
 }
 
-.header h4 {
+.jumbotron h4 {
   color: #f4bebe;
 }
 
@@ -25,6 +25,5 @@
   font-family: 'Shift', sans-serif;
   font-size: 30px;
   display: inline;
-  margin: 50px;
-  padding-left: 150px;
+
 }
