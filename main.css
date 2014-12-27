@@ -18,6 +18,10 @@
   padding-left: 200px;
 }
 
+.links {
+  background-color: #f8f8df;
+  padding-top: 10px;
+}
 
 .links a{
   color: #8d6a95;
