@@ -1,19 +1,21 @@
 .jumbotron{
   font-family: 'Shift', sans-serif;
   font-size: 50px;
-  background-color: #f8f8df;
-  border-style: solid;
-  border-color: white;
-  border-width: 10px;
-  padding: 20px 40px 40px 20px;
+  background-image: url("http://th03.deviantart.net/fs71/PRE/i/2012/064/1/1/chibi_totoro_by_dragon_flame13-d4rs1ox.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 510px;
 }
 
-.jumbotron h1 {
+.container h1 {
   color: #8d6a95;
+  font-size: 60px;
+  padding-left: 100px:
 }
 
 .jumbotron h4 {
   color: #f4bebe;
+  padding-left: 200px;
 }
 
 
@@ -26,4 +28,9 @@
   font-size: 30px;
   display: inline;
 
+}
+
+.p {
+  color: #bfbde3;
+  padding-left: 10px;
 }
