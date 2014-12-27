@@ -4,7 +4,7 @@
   background-image: url("http://th03.deviantart.net/fs71/PRE/i/2012/064/1/1/chibi_totoro_by_dragon_flame13-d4rs1ox.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 510px;
+  height: 505px;
 }
 
 .container h1 {
@@ -27,10 +27,12 @@
   font-family: 'Shift', sans-serif;
   font-size: 30px;
   display: inline;
+  padding-left: 100px
 
 }
 
 .p {
   color: #bfbde3;
   padding-left: 10px;
+  padding-top: 20px
 }
